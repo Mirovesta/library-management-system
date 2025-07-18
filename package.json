@@ -6,17 +6,17 @@
   "scripts": {
     "start": "python app.py",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  }
   "repository": {
-    "type": "git",
+    "type": "git"
     "url": "git+https://github.com/Mirovesta/library-management-system.git"
-  },
+  }
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "ISC"
   "bugs": {
     "url": "https://github.com/Mirovesta/library-management-system/issues"
-  },
+  }
   "homepage": "https://github.com/Mirovesta/library-management-system#readme"
 }
 
